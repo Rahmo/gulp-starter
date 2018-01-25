@@ -1,0 +1,27 @@
+{
+  "name": "gulp-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahmo/gulp-started-prj.git"
+  },
+  "author": "rahmo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rahmo/gulp-started-prj/issues"
+  },
+  "homepage": "https://github.com/Rahmo/gulp-started-prj#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "gulpify": "^0.1.1"
+  }
+}

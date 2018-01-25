@@ -1,0 +1,1 @@
+var msg="test file 2",loc="this/file/out";
