@@ -1,1 +1,1 @@
-var names=["SAMI ","JEN","JACK"];for(document.write("greeting from : "),i=0;i<names.length;i++)console.log(names[i]),document.write(names[i]+".");
+var names=["ANDREW ","JEN","JACK"];for(document.write("greeting from : "),i=0;i<names.length;i++)console.log(names[i]),document.write(names[i]+".");

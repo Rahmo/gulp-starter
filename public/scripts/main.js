@@ -1,4 +1,4 @@
-var names = ['SAMI ','JEN','JACK']
+var names = ['ANDREW ','JEN','JACK']
 
 document.write("greeting from : ");
 for (i =0 ; i< names.length; i++){
