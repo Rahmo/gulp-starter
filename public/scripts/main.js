@@ -1,5 +1,7 @@
-var names = ['ahmed','ali','sam']
+var names = ['SAMI ','JEN','JACK']
 
-for (i =0 ; i<= names.length; i++){
+document.write("greeting from : ");
+for (i =0 ; i< names.length; i++){
     console.log(names[i])
+    document.write(names[i]+".")
 }
